@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container-1{
+    background-image: url(nat-1.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    min-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
+
+.text-1,.text-3,.text-5,.text-7,.text-9{
+    background-color: rgb(216, 196, 196);
+}
+.text-1 span, .text-3 span,  .text-5 span ,.text-7 span ,.text-9 span{
+    
+    font-size: 60px;
+    padding: 20px;
+
+}
+.text-2,.text-4,.text-6,.text-8,.text-10{
+    background-color: blanchedalmond;
+    padding: 20px;
+    font-size: 30px;
+   
+    
+}
+.container-2{
+    background-image: url(jog_falls_Shimoga1.webp);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    min-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
+.container-3{
+    background-image: url(sun.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    min-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
+.container-4{
+    background-image: url(20.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    min-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
+.container-5{
+    background-image: url(s.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    min-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
